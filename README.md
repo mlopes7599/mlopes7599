@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my profile!
+## Hi there <img src="https://media.tenor.com/cQJRaPT-HEcAAAAi/kolenka-street-fighter.gif" width="200" />  Welcome to my profile!
 
 - 🔭 Hoje trabalho na parte de gestão com T.I
 - 🌱 Estou estudando Java e Spring
